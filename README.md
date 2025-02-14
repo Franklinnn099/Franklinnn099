@@ -27,7 +27,7 @@ Feel free to explore my repositories, where you’ll find a mix of academic assi
 I’m open to collaborations, internships, and learning opportunities!
 
     Email: franklinasarewiafe@gmail.com
-    LinkedIn: www.linkedin.com/in/franklin-wiafe-64a0752a
+    LinkedIn: www.linkedin.com/in/franklin-wiafe-64a0752a1
     
 
 🌱 Let’s Connect
