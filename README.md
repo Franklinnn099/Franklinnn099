@@ -1,6 +1,6 @@
 Hi there, I'm Franklin Wiafe 👋
 
-Welcome to my GitHub! I'm an Information Technology student at the University of Ghana, passionate about programming and building software that solves real-world problems.
+Welcome to my GitHub! I'm  passionate about programming and building software that solves real-world problems.
 🔧 Technologies & Tools
 
     Programming Languages: Python, Java, C#
